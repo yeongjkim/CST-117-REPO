@@ -1,0 +1,6 @@
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/bin/Debug/Exercise_3.exe
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/bin/Debug/Exercise_3.pdb
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/obj/x86/Debug/Exercise_3.csprojAssemblyReference.cache
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/obj/x86/Debug/Exercise_3.csproj.CoreCompileInputs.cache
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/obj/x86/Debug/Exercise_3.exe
+/Users/yeojeezy/Desktop/CST-117 REPO/Exercise_3/Exercise_3/obj/x86/Debug/Exercise_3.pdb
